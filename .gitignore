@@ -3,3 +3,6 @@
 ################################################################################
 
 /XrmToolboxDemo/bin/Debug
+/XrmToolboxDemo/obj
+/.vs
+/packages
